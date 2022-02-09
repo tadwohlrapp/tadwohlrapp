@@ -5,4 +5,4 @@
 
 I’m a Full Stack Web Developer with a passion for smart frontends, clean code, accessibility, SEO and fast loading websites 🚀
 
-Curretly looking for new challenges in Berlin or remotely, so if you know someone who knows someone who's hiring, feel free to reach out to me here or on [linkedIn](https://www.linkedin.com/in/tadwohlrapp/) 😃 
+Curretly looking for new challenges in Berlin or remotely, so if you know someone who knows someone who's hiring, feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/tadwohlrapp/) 😃 
